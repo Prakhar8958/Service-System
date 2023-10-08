@@ -24,8 +24,6 @@ import com.clinic.demo.service.prescriptionService;
 @RequestMapping("clinic")
 public class clinicController {
 
-	
-	
 	@Autowired
 	clinicService service;
 	
